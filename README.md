@@ -14,8 +14,8 @@ Hey there! I'm Hadi, a passionate developer, problem-solver, and lifelong learne
 - ☁️ **Backend Development**: APIs, microservices, and cloud tech.
 
 ## 📫 Let’s Connect!
-- 💌 [Your Email](mailto:ranjbar.hadi@live.com)
-- 🐦 [Your Twitter](https://twitter.com/ranjbarhadi)  
+- 💌 [ranjbar.hadi@live.com](mailto:ranjbar.hadi@live.com)
+- 🐦 [My Twitter (@ranjbarhadi)](https://twitter.com/ranjbarhadi)  
 
 Feel free to explore, fork, or contribute to any of my projects. Don’t forget to ⭐️ something you like! Let’s code something amazing together.
 
